@@ -1,0 +1,14 @@
+body{
+    background:skyblue;
+    color: white;
+    text-align: center;
+}
+
+li{
+    font-size: 20px;
+}
+
+li:hover{
+    font-size: 25px;
+    text-decoration: line-through;
+}
